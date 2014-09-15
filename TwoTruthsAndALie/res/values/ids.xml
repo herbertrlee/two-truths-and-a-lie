@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_id">1079541660988</string>
+  <string name="gcm_id">493710799332</string>
+  
+  <string name="achievement_lie_to_me">CgkIvPrJzbUfEAIQAA</string>
+  <string name="achievement_polygraph_expert">CgkIvPrJzbUfEAIQAQ</string>
+  <string name="achievement_cant_win_em_all">CgkIvPrJzbUfEAIQAg</string>
+  <string name="achievement_shameless_begging_from_the_developer">CgkIvPrJzbUfEAIQAw</string>
+  <string name="achievement_godlike">CgkIvPrJzbUfEAIQBg</string>
+  <string name="achievement_dont_need_no_stupid_hints">CgkIvPrJzbUfEAIQCQ</string>
+  <string name="achievement_the_lie_master">CgkIvPrJzbUfEAIQCA</string>
+  <string name="leaderboard_longest_streaks">CgkIvPrJzbUfEAIQBA</string>
+</resources>
